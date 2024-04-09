@@ -1,0 +1,15 @@
+
+.name{
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.ceoName{
+  text-align:center;
+}
+.blocks{
+  background-color: rgb(61, 216, 178);
+}
+.lone{
+  background-color:gainsboro;
+}
